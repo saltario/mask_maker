@@ -5,7 +5,7 @@ I made a little editor extension to pack
 Put the script anywhere in your project. To open the window, just go to the top of Unity click **Tools>Mask Map Packer**.
 
 
-![Unity HDRP Mask Map Packer](image\screenshot.png)
+![Unity HDRP Mask Map Packer](image/screenshot.png)
 
 
 ### Features:
